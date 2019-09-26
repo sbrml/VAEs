@@ -105,5 +105,7 @@ venv.bak/
 
 # My ignores
 vae-venv/
+vae-venv-cpu1/
 summaries/
+
 
